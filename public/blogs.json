@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/ZNkjGBg/cover1.jpg",
+      "title": "The Art of Programming",
+      "author": "John Smith",
+      "author-img": "https://example.com/author1.jpg",
+      "posted-date": "2024-05-11",
+      "reading-time": "20 mins",
+      "hashtags": ["programming", "coding", "development"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/fpz36vV/cover2.jpg",
+      "title": "Exploring the Universe",
+      "author": "Jane Doe",
+      "author-img": "https://example.com/author2.jpg",
+      "posted-date": "2024-05-10",
+      "reading-time": "30 mins",
+      "hashtags": ["space", "science", "astronomy"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/LRV5WLn/cover3.jpg",
+      "title": "The Art of Cooking",
+      "author": "Emily Rogers",
+      "author-img": "https://example.com/author3.jpg",
+      "posted-date": "2024-05-09",
+      "reading-time": "25 mins",
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/ZNkjGBg/cover1.jpg",
+      "title": "Effective Communication",
+      "author": "Michael Johnson",
+      "author-img": "https://example.com/author4.jpg",
+      "posted-date": "2024-05-08",
+      "reading-time": "15 mins",
+      "hashtags": ["communication", "skills", "language"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/fpz36vV/cover2.jpg",
+      "title": "The Art of Photography",
+      "author": "Sarah Brown",
+      "author-img": "https://example.com/author5.jpg",
+      "posted-date": "2024-05-07",
+      "reading-time": "35 mins",
+      "hashtags": ["photography", "art", "creativity"]
+    }
+  ]
+  
